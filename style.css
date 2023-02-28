@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+    background-image: url(https://ebaconline.com.br/upload/cms/eFAmAGKcmdh4kpnHBQxQG.png);
+    margin: 30px;
+    margin-top: 10px;
+}
+
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    
+     
+}
+
+
+
+p{
+    text-align:justify;
+    color: rgb(44, 44, 51);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+
+
+h2{
+    color: rgb(50, 47, 47);
+}
+
+
+
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(2, 2, 2);
+}
+
+
+
+button{
+    color: blue;
+}
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.img{
+    width: 850px;
+}
+
+header{
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+footer{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
